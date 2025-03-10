@@ -34,6 +34,16 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+  ![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Detectron2](https://img.shields.io/badge/-Detectron2-4267B2?style=for-the-badge&logo=facebook&logoColor=white)
+  ![GANs](https://img.shields.io/badge/-GANs-9933CC?style=for-the-badge&logoColor=white)
+  ![Segmentation](https://img.shields.io/badge/-Segmentation-FF6B6B?style=for-the-badge&logoColor=white)
+  ![Object Detection](https://img.shields.io/badge/-Object%20Detection-43853D?style=for-the-badge&logoColor=white)
+  ![Feature Extraction](https://img.shields.io/badge/-Feature%20Extraction-FFA500?style=for-the-badge&logoColor=black)
+  ![Image Processing](https://img.shields.io/badge/-Image%20Processing-8A2BE2?style=for-the-badge&logoColor=white)
+  ![Pose Estimation](https://img.shields.io/badge/-Pose%20Estimation-00B4D8?style=for-the-badge&logoColor=white)
+  ![Face Recognition](https://img.shields.io/badge/-Face%20Recognition-DC143C?style=for-the-badge&logoColor=white)
   
 </div>
 
@@ -82,7 +92,7 @@
   <a href="mailto:rizwan.ai.engineer@gmail.com">
     <img src="https://img.shields.io/badge/Email-rizwan.ai.engineer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/datasciecnce">
+  <a href="https://www.linkedin.com/in/muhammadrizwan11">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rizwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/muhammadrizwan11">
