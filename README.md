@@ -105,7 +105,7 @@
   <a href="mailto:rizwan.ai.engineer@gmail.com">
     <img src="https://img.shields.io/badge/Email-rizwan.ai.engineer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammadrizwan11">
+  <a href="https://www.linkedin.com/in/datasciecnce">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rizwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/muhammadrizwan11">
