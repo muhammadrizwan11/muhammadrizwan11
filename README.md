@@ -32,6 +32,7 @@
 - 📊 Passionate about **Data Science** with a focus on practical applications
 - 🔍 Currently working on advanced **Deep Learning** models and **Altralytic** solutions
 - 📚 Lifelong learner continuously exploring new technologies in AI
+-  rizwan.ai.engineer@gmail.com
 
 ## 🛠️ Technical Skills
 
