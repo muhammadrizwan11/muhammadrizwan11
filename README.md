@@ -1,6 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Muhammad+Rizwan!;AI+and+Machine+Learning+Engineer;Computer+Vision+Specialist;Data+Science+Expert&center=true&width=380&height=45">
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Rizwan&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6A5ACD&background=FF000000&center=true&vCenter=true&width=600&lines=AI+and+Machine+Learning+Engineer;Computer+Vision+Specialist;Data+Science+Expert;Deep+Learning+Enthusiast;Researcher+and+Developer" alt="Typing SVG" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/github/followers/muhammadrizwan11?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/muhammadrizwan11?label=Stars&style=social" alt="GitHub stars" />
+  
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/muhammadrizwan11/muhammadrizwan11/main/assets/ai-animation.gif" width="400px" alt="AI Animation">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-brightgreen" />
