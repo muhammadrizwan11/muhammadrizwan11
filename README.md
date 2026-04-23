@@ -1,96 +1,88 @@
-Every Monday, my client's sales team spent:
-- 8 hours scraping leads manually
-- 12 hours writing personalized emails
-- 6 hours sending follow-ups
-- 4 hours booking calls
+<div align="center">
 
-Total: 30+ hours. Every single week.
+# Muhammad Rizwan
+### AI Automation & Computer Vision Engineer
 
-I fixed this in 4 days.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/datasciecnce)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rizwan.ai.engineer@gmail.com)
+[![Calendly](https://img.shields.io/badge/Book_a_Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com/rizwan44007)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/muhammad_rizwan_ce847d2a2)
 
-Here's exactly how I built it.
-
----
-
-## The Problem
-
-The team was doing everything manually.
-Same tasks. Every week. For years.
-
-They knew automation existed.
-They just didn't know where to start.
+</div>
 
 ---
 
-## The Solution: 6-Stage AI Sales Agent
+## 🚀 About Me
 
-I built this in n8n — an open-source 
-workflow automation tool.
+I build AI systems that work in production — not just in notebooks.
 
-### Stage 1 — Lead Scraping
-Apify scrapes LinkedIn for targeted leads
-→ Industry, company size, job title filters
-→ 500+ leads per week, automatically
+**10+ production AI systems delivered for clients in US, UAE, and Pakistan.**
 
-### Stage 2 — Lead Analysis
-GPT-4 analyzes each lead's profile
-→ Identifies pain points
-→ Finds personalization hooks
-
-### Stage 3 — Email Generation
-GPT-4 writes personalized emails
-→ Different for every lead
-→ Human tone, not robotic
-
-### Stage 4 — Automated Sending
-SMTP integration sends emails
-→ Respects daily sending limits
-→ Tracks opens and clicks
-
-### Stage 5 — Follow-up Sequences
-Automatic follow-up at 72 hours
-→ Only if no reply
-→ Different message each time
-
-### Stage 6 — Meeting Booking
-Positive replies → Calendly link sent
-→ Meeting booked automatically
-→ Added to Google Calendar
+- 🤖 **AI Automation** — n8n agentic workflows, RAG pipelines, LLM apps
+- 👁️ **Computer Vision** — YOLO v5-v11, real-time detection, deployment
+- 🧠 **ML Engineering** — end-to-end pipelines, model training, cloud deploy
 
 ---
 
-## The Result
+## ⚡ Production Projects
 
-✅ 30 hours → 25 minutes per week
-✅ System runs 24/7
-✅ Zero human intervention
-✅ More leads, better personalization
-
----
-
-## Tech Stack
-
-- n8n (workflow automation)
-- GPT-4 (email writing + analysis)  
-- Apify (lead scraping)
-- SMTP (email sending)
-- Calendly (meeting booking)
-- Google Calendar (scheduling)
+| Project | Tech | Result |
+|---------|------|--------|
+| AI Sales Agent | n8n + GPT-4 + Apify | 30hrs → 25min/week |
+| RAG Chatbot (UAE University) | LangChain + Supabase + FastAPI | 200+ queries/day |
+| Fruit Quality Inspection | YOLOv8 + Streamlit | 94% accuracy |
+| Medical Pills Detection | YOLOv11 + FastAPI | 91% precision |
+| HR Automation System | n8n + Google Workspace | Full dept automated |
+| SEO AI Agent | GPT-4 + Python | URL → full rewrite |
 
 ---
 
-## Key Takeaway
+## 🛠️ Tech Stack
 
-AI automation isn't about replacing people.
-It's about freeing them to do what matters.
+```python
+ai_automation = ["n8n", "LangChain", "GPT-4", 
+                  "Claude", "RAG", "LlamaIndex"]
 
-The sales team now spends 25 minutes 
-reviewing AI-generated reports instead of 
-30 hours doing manual work.
+computer_vision = ["YOLO v5-v11", "OpenCV", 
+                   "PyTorch", "TensorFlow", 
+                   "Detectron2", "MediaPipe"]
 
-That's the power of production AI.
+deployment = ["FastAPI", "Flask", "Streamlit",
+              "Docker", "AWS", "HuggingFace",
+              "Firebase", "Supabase"]
+
+languages = ["Python", "SQL", "Dart/Flutter"]
+```
 
 ---
 
-Want to build something similar?
-Book a free call: calendly.com/rizwan44007
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadrizwan11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizwan11&theme=radical"/>
+</div>
+
+---
+
+## 📝 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [How I automated 30 hours of sales work into 25 minutes](https://dev.to/muhammad_rizwan_ce847d2a2)
+
+---
+
+## 🤝 Let's Work Together
+
+- 💼 **Open to:** AI/ML Engineer roles (Lahore) + Remote
+- 💰 **Freelance:** AI Automation & Computer Vision projects
+- 📅 **Book a call:** [calendly.com/rizwan44007](https://calendly.com/rizwan44007)
+- 📧 **Email:** rizwan.ai.engineer@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadrizwan11&color=blueviolet&style=for-the-badge" />
+</div>
